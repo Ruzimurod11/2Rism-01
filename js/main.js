@@ -7,7 +7,7 @@ customSelect('select');
 // });
 
 flatpickr("#date", {
-	enableTime: true,
+	//enableTime: true,
 	dateFormat: "Y-m-d",
 });
 /* Subscribe Label */
